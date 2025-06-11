@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-pic-linker",
-	"name": "obsidian-pic-linker",
+	"id": "PicLinker",
+	"name": "PicLinker",
 	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Associate the image with the corresponding name in the diary",
